@@ -1,0 +1,5 @@
+{
+  "name": "words-chaser-core",
+  "script": "app.js",
+  "autorestart": true
+}
